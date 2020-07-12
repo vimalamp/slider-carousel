@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Reusable carousel component implementation.
+
+#### Link to the working project:
+
+https://vimalamp.github.io/slider-carousel/
+
+---
+
 
 ## Available Scripts
 
