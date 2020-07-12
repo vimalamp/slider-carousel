@@ -1,4 +1,4 @@
-#### Reusable carousel component implementation.
+#### Reusable carousel component implementation. Slides switch automatically unless the user is interacting with the component.
 
 #### Link to the working project:
 
